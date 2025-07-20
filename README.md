@@ -15,5 +15,4 @@
 **Tools:** GitHub, Jupyter, VSCode  
 **Libraries:** Pandas, Scikit-learn, MySQL
 
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourUsername&show_icons=true&theme=radical)
+
