@@ -1,4 +1,4 @@
-# Hi, I'm Sorin 👋
+# Hi, I'm Sorin
 
 ## 🚀 About Me
 - 🎓 Currently studying Data Science and Computing at University of London, Birkbeck College
@@ -12,8 +12,8 @@
 
 ## 🛠️ Skills
 **Languages:** Python, JavaScript, SQL  
-**Tools:** Git, GitHub, Jupyter, VSCode  
-**Libraries:** Pandas, Scikit-learn, React
+**Tools:** GitHub, Jupyter, VSCode  
+**Libraries:** Pandas, Scikit-learn, MySQL
 
 ## 📈 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourUsername&show_icons=true&theme=radical)
