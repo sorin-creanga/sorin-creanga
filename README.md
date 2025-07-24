@@ -6,7 +6,7 @@
 - 📫 How to reach me: sorincreanga1998@gmail.com  
 
 ## 💼 Projects
-- 🔍 [Bank Churn Analysis](link) – short description.
+- 🔍 [Bank Churn Analysis]([link](https://github.com/sorin-creanga/bank-churn-machine-learning-model/tree/main)) – short description.
 - 📊 [Data Dashboard](link) – tools used, insights.
 - 🤖 [AI Project](link) – purpose, tech stack.
 
