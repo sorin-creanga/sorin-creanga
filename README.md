@@ -6,7 +6,7 @@
 - 📫 How to reach me: sorincreanga1998@gmail.com  
 
 ## 💼 Projects
-- 🔍 [Project Name](link) – short description.
+- 🔍 [Bank Churn Analysis](link) – short description.
 - 📊 [Data Dashboard](link) – tools used, insights.
 - 🤖 [AI Project](link) – purpose, tech stack.
 
