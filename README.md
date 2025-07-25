@@ -6,7 +6,7 @@
 - 📫 How to reach me: creanga.sorin@outlook.com
 
 ## 💼 Projects
-- 🔍 [Bank Churn Analysis][(https://github.com/sorin-creanga/bank-churn-machine-learning-model/tree/main)] – Machine learning model that predicts baniking customer churn posibility.
+- 🔍 [Bank Churn Analysis](https://github.com/sorin-creanga/bank-churn-machine-learning-model/tree/main) – Machine learning model that predicts baniking customer churn posibility.
 - 📊 EDA exploration projects – Titanic dataset, shark attacks & more.
 - 🤖 [AI Project](link) – purpose, tech stack.
 
