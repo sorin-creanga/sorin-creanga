@@ -3,7 +3,7 @@
 ## 🚀 About Me
 - 🎓 Currently studying Data Science and Computing at University of London, Birkbeck College
 - 💼 Email and CRM Specialist [atm]
-- 📫 How to reach me: sorincreanga1998@gmail.com  
+- 📫 How to reach me: creanga.sorin@outlook.com
 
 ## 💼 Projects
 - 🔍 [Bank Churn Analysis]([url](https://github.com/sorin-creanga/bank-churn-machine-learning-model/tree/main)) – Machine learning model that predicts baniking customer churn posibility.
