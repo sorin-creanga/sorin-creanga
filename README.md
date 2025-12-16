@@ -6,7 +6,9 @@
 - How to reach me: creanga.sorin@outlook.com
 
 ## Projects
-- [Bank Churn Analysis](https://github.com/sorin-creanga/bank-churn-machine-learning-model/tree/main) – Machine learning model that predicts baniking customer churn posibility.
+- Local Simulation of ER Room displayed via a locally hosted dashboard
+- Paracetamol Sentiment Analysis via YouTube API + 30 Day Sentiment Prediction
+- Bank Churn Analysis
 - EDA exploration projects – Titanic dataset, shark attacks & more.
 
 ## Skills
