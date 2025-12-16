@@ -2,7 +2,7 @@
 
 ## About Me
 - Currently studying Data Science and Computing at University of London, Birkbeck College
-- Email and CRM Specialist @Cotswold Outdoor group
+- Email Specialist @Cotswold Outdoor group
 - How to reach me: creanga.sorin@outlook.com
 
 ## Projects
@@ -11,7 +11,7 @@
 
 ## Skills
 **Languages:** Python, Java, SQL
-**Tools:** GitHub, Jupyter, VSCode, MySQL, Power Bi
-**Libraries:** Pandas, Scikit-learn, Numpy, Regression Models & more.
+**Tools:** GitHub, Jupyter, VSCode, MySQL, Power Bi, Git
+**Libraries:** Pandas, Scikit-learn, Numpy, time.
 
 
