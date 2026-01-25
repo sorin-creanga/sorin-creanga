@@ -11,7 +11,7 @@
 - Bank Churn Analysis
 - EDA exploration projects – Titanic dataset, shark attacks & more.
 
-## Skills
+## Tools
 **Languages:** Python, Java, SQL
 **Tools:** GitHub, Jupyter, VSCode, MySQL, Power Bi, Git
 **Libraries:** Pandas, Scikit-learn, Numpy, time.
