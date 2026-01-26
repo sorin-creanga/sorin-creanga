@@ -2,7 +2,7 @@
 
 ## About Me
 - Currently studying Data Science and Computing at University of London, Birkbeck College
-- Email Specialist @Cotswold Outdoor group
+- Email & CRM  Specialist @Cotswold Outdoor group
 - How to reach me: creanga.sorin@outlook.com
 
 ## Projects
