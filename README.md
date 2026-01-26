@@ -1,7 +1,8 @@
 # Hi, I'm Sorin
 
 ## About Me
-- Currently studying Data Science and Computing at University of London, Birkbeck College
+- Currently studying BA(Hons) Data Science and Computing at University of London, Birkbeck College
+- BA in Marketing Administration
 - Email & CRM  Specialist @Cotswold Outdoor group
 - How to reach me: creanga.sorin@outlook.com
 
