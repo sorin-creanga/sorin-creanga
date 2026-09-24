@@ -8,6 +8,7 @@
 
 ## Projects
 - Local Simulation of ER Room displayed via a locally hosted dashboard
+- Built all reporting tools for the email and CRM team via Adobe Analytics API into PowerBI dashboards
 - [Paracetamol Sentiment Analysis via YouTube API + 30 Day Sentiment Prediction]([url](https://github.com/sorin-creanga/paracetamol-sentiment-prediction))
 - Bank Churn Analysis
 - EDA exploration projects – Titanic dataset, shark attacks & more.
